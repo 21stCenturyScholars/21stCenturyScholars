@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is the repository belonging to the blog on [21stcenturyscholars.org](www.21stcenturyscholars.org) :page_facing_up:. We are very happy that you found your way here, and we wish you fun looking around here and trying to reproduce our repos. Should you have any question please check out our [blog](www.21centuryscholars.org) first, should you still encounter any problems you can leave us a message there :incoming_envelope:. 
 
 <!--
 **21stCenturyScholars/21stCenturyScholars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
